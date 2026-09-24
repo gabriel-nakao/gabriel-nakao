@@ -1,5 +1,7 @@
 ## About me 
-Hi! My name is Gabriel. I am a computer science student. :dizzy: \
-I also have a degree in graphic design \
-Anyway, feel free to contact me! :cowboy_hat_face: 
+Hello! My name is Gabriel, and I am currently studying Computer Science.
+I previously graduated in Graphic Design.
 
+I’m currently learning Python for web and back-end development, scripting, prototyping.
+
+Anyway, feel free to contact me!
